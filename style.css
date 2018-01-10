@@ -1,0 +1,41 @@
+* {
+  margin:0px;
+  padding:0px;
+}
+
+.logo {
+  margin: 5px auto 5px auto;
+}
+
+.header {
+  color: #D4AF37;
+  font-family:"monotype corsiva";
+  text-decoration: underline;
+  text-align: center;
+  margin: 10px auto 10px auto;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.projects {
+  background-color: black;
+  width: 100%;
+  height: auto;
+  margin-right: auto;
+  margin-left: auto;
+  padding-bottom: 20px;
+
+}
+table {
+  padding-left: 10%;
+  padding-right: 10%;
+  margin: 10px auto 10px auto;
+}
+
+footer {
+  text-align: center;
+  font-family:"monotype corsiva";
+  font-size: 20pt;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
