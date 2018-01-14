@@ -34,7 +34,9 @@ table {
 
 footer {
   text-align: center;
+  /* This font is not being loaded on my computer because youre not linking the font in.*You may have to pay for the font -- so id stick with something of a similar font style for now and link it in later. We can go over that together*/
   font-family:"monotype corsiva";
+  /* Theres nothing inherently wrong with using pt, but its rarely used in industry, i'd avoid it for now for simplicty and stick to pixels*/
   font-size: 20pt;
   margin-top: 20px;
   margin-bottom: 20px;
