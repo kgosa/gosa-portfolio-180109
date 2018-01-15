@@ -1,4 +1,5 @@
-#Review 1
+# Review 1 
+
 So nice job on the very basics of the website.
 
 Looks good.
@@ -8,7 +9,7 @@ Theres a lot that can be said so far, but the linking issue is by far the bigges
 I've linked an image of what it looks like here on my computer.
 [look on my computer](https://imgur.com/a/Zlt45)
 
-##First iteration
+## First iteration
 * Fix your links
 * Fix comments in HTML
 * Fix typography
