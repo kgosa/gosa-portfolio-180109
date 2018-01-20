@@ -14,5 +14,14 @@ I've linked an image of what it looks like here on my computer.
 * Fix comments in HTML
 * Fix typography
 
+##Second iteration (due: 01/24/18)
+* Fix typography
+* Display, float, position attributes (MASTERED)
+* Learn about the box-model: border-box
+* What is bootstrap and how do I use its grid system? What is CSS grid?
+* What is SCSS or SASS?
+* Learn how to use Git (on a Mac)
+* What is UNIX, linux? 
+* add JQuery to your page, then on clicking your name, write "hello there" to the JS console
 
 
