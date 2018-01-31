@@ -24,4 +24,17 @@ I've linked an image of what it looks like here on my computer.
 * What is UNIX, linux? 
 * add JQuery to your page, then on clicking your name, write "hello there" to the JS console
 
+##Review 3 (due)
+* remove inline html styles extract to css
+* look up separation of concerns
+* KISS -> keep it simple stupid
+* get rid of css repetitiveness -- look up css scoring and explain it to me in markdown
+* read up on css selectors
+* SCSS/SASS what does it offer you - look up what it offers -- use some of the features, sepcifically nesting, and the dollar sign, and variables 
+* why arent you cascading selectors
+* BEM, SMACSS (these are different ways to format your styling)
+
+
+
+
 
